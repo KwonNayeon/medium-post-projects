@@ -25,9 +25,11 @@ This project is a deep dive into creating word clouds using trending tweets rela
 
 - **Basic EDA**: Perform simple analysis and cleaning of the F1 tweets dataset to understand key patterns.
 - **Word Cloud Visualization**: Create a visual representation of the most frequent words in F1-related tweets.
-   - **Stopword Filtering**: Remove common words (like "the", "is", etc.) to focus on the most important words in the tweets.
-   - **Custom Colormaps**: Adjust the word cloud's appearance using different color schemes from `matplotlib` and user-defined colormaps.
-   - **Image Masking**: Shape the word cloud using a custom image mask, allowing words to form specific shapes (e.g., racing car).
+   - **Basic Word Cloud Creation**
+   - **Advanced Customizations**
+      - **Stopword Filtering**: Remove common words (like "the", "is", etc.) to focus on the most important words in the tweets.
+      - **Custom Colormaps**: Adjust the word cloud's appearance using different color schemes from `matplotlib` and user-defined colormaps.
+      - **Image Masking**: Shape the word cloud using a custom image mask, allowing words to form specific shapes (e.g., racing car).
 
 ## Data Source
 
