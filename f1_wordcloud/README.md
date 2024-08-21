@@ -56,6 +56,12 @@ import re
 nltk.download('stopwords')
 ```
 
+## Example Output
+
+Here’s an example word cloud generated from F1 trending tweets:
+
+<img src="results/Enhanced_F1_Tweet_Word_Cloud_Custom_Stopwords_Colormap_Mask_Image_2.png" alt="Enhanced F1 Tweet Word Cloud" width="600"/>
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/KwonNayeon/medium-post-projects/blob/main/LICENSE) file for more details.
