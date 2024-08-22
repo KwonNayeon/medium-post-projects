@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Gl8nwioW-5cJJCCzgy2yA62QehzIuQhK
 
 # Deep Dive into Word Cloud Creation
-This code links to the Medium post '*Deep Dive into Word Cloud Creation*'. Here, we'll show you how to create a word cloud using Python. The code covers data preparation and data visualization, focusing on various techniques for creating word clouds. By following along, you'll gain a better understanding of the technical aspects behind word cloud visualizations.
+This code links to the Medium post '*Deep Dive into Word Cloud Creation*'. Here, I'll show you how to create a word cloud using Python. The code covers data preparation and data visualization, focusing on various techniques for creating word clouds. By following along, you'll gain a better understanding of the technical aspects behind word cloud visualizations.
 
 [Read the full article on Medium](https://medium.com/@nayeonkn0330/deep-dive-into-word-cloud-creation-c2fc7fc09c12)
 """
