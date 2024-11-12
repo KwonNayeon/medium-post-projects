@@ -5,8 +5,7 @@ This project focuses on web scraping Naver blogs related to Taiwan travel and pe
 ## Files
 
 1. **`code/crawling_pet_project.py`**  
-   A Python script version of the same code for direct execution.  
-   Can be run from the command line or incorporated into a larger Python-based workflow. Ideal for automation or batch processing.
+   This Python script can be run from the command line or integrated into a larger Python-based workflow, making it ideal for automation or batch processing.
 
 ## API Key
 
