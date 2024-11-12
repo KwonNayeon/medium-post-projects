@@ -4,10 +4,7 @@ This project focuses on web scraping Naver blogs related to Taiwan travel and pe
 
 ## Files
 
-1. **`data/stopwords-ko.txt`**  
-   Contains a list of stopwords in Korean used for text preprocessing during analysis.
-
-2. **`code/crawling_pet_project.py`**  
+1. **`code/crawling_pet_project.py`**  
    A Python script version of the same code for direct execution.  
    Can be run from the command line or incorporated into a larger Python-based workflow. Ideal for automation or batch processing.
 
