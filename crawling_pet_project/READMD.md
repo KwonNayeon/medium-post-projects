@@ -1,18 +1,13 @@
 # Project: Web Scraping and Text Analysis of Travel Trends on Blogs
 
-This project focuses on web scraping Naver blogs related to Taiwan travel and performing text analysis to uncover insights into travel trends. The project generates word clouds and performs sentiment analysis, keyword extraction, and topic modeling on the extracted blog data. The accompanying Medium post [**Web Scraping and Text Analysis of Travel Trends on Blogs**](https://medium.com/) provides further context on the approach and results.
-
-The project includes both Jupyter Notebook and Python script formats, offering flexibility for interactive use or direct execution.
+This project focuses on web scraping Naver blogs related to Taiwan travel and performing text analysis to uncover insights into travel trends. The project generates word clouds and performs sentiment analysis, keyword extraction, and topic modeling on the extracted blog data. The accompanying Medium post [**Web Scraping and Text Analysis of Travel Trends on Blogs**](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed) provides further context on the approach and results.
 
 ## Files
 
 1. **`data/stopwords-ko.txt`**  
    Contains a list of stopwords in Korean used for text preprocessing during analysis.
 
-2. **`code/Crawling_Naver_blogs_Taiwan_travel_analysis.ipynb`**  
-   A Jupyter Notebook containing the code for crawling Naver blogs related to Taiwan travel and performing text analysis.  
-   
-3. **`code/Crawling_Naver_blogs_Taiwan_travel_analysis.py`**  
+2. **`code/crawling_pet_project.py`**  
    A Python script version of the same code for direct execution.  
    Can be run from the command line or incorporated into a larger Python-based workflow. Ideal for automation or batch processing.
 

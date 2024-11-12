@@ -13,7 +13,7 @@ This repository hosts code and projects featured in my Medium posts. Each folder
      - Custom colormaps.
      - Stopword filtering.
 ### 2. **Web Scraping and Text Analysis of Travel Trends on Blogs**
-   - **Post**: [Web Scraping and Text Analysis of Travel Trends on Blogs](https://medium.com)
+   - **Post**: [Web Scraping and Text Analysis of Travel Trends on Blogs](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)
    - **Description**: This project explores the use of web scraping to extract travel-related blog posts using the Naver API. The scraped data is then analyzed to identify trends in travel discussions, sentiments, and popular keywords. Through this analysis, insights into travel preferences and emerging trends are uncovered.
    - **Folder**: `crawling_pet_project`
    - **Features**:
