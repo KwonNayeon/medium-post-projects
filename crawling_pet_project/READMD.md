@@ -1,14 +1,12 @@
 # Project: Web Scraping and Text Analysis of Travel Trends on Blogs
 
-This project focuses on web scraping Naver blogs related to Taiwan travel and performing text analysis to uncover insights into travel trends. The project generates word clouds and performs sentiment analysis, keyword extraction, and topic modeling on the extracted blog data. The accompanying Medium post [**Web Scraping and Text Analysis of Travel Trends on Blogs**](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed) provides further context on the approach and results.
+This project focuses on web scraping Naver blogs related to Taiwan travel and performing text analysis to uncover insights into travel trends. The project performs sentiment analysis, keyword extraction, and topic modeling (LDA) on the extracted blog data, along with generating word clouds. The accompanying Medium post [**Web Scraping and Text Analysis of Travel Trends on Blogs**](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed) provides further context on the approach and results.
 
 ## Files
-
 1. **`code/crawling_pet_project.py`**  
-   This Python script can be run from the command line or integrated into a larger Python-based workflow, making it ideal for automation or batch processing.
+   Python script for web scraping Naver blogs related to Taiwan travel, performing text analysis (sentiment analysis, keyword extraction, topic modeling), and generating word clouds.
 
 ## API Key
-
 Please note that the **Naver API key** has been omitted for privacy and security reasons. You will need to provide your own Naver API key to run the web scraping script. You can obtain the API key by following the instructions on the [Naver Developers website](https://developers.naver.com/).
 
 In the code, replace the following placeholders with your own API key:
@@ -19,7 +17,6 @@ client_secret = ''  # Your Naver API Client Secret
 ```
 
 ## Requirements
-
 Make sure you have the following Python libraries installed:
 
 ```bash
@@ -57,11 +54,9 @@ import nltk
 ```
 
 ## Data Sources and Acknowledgments
-
 - **Naver Developer API** for web scraping: [Naver Developers website](https://developers.naver.com/)  
 - Python-based Naver blog crawling tutorial by dev-woo: [link](https://developer-woo.tistory.com/60#google_vignette)  
 - The project uses the **stopwords-ko.txt** from [spikeekips' Gist on GitHub](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a)
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/KwonNayeon/medium-post-projects/blob/main/LICENSE) file for more details.

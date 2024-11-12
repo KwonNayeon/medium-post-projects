@@ -14,13 +14,13 @@ This repository hosts code and projects featured in my Medium posts. Each folder
      - Stopword filtering.
 ### 2. **Web Scraping and Text Analysis of Travel Trends on Blogs**
    - **Post**: [Web Scraping and Text Analysis of Travel Trends on Blogs](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)
-   - **Description**: This project explores the use of web scraping to extract travel-related blog posts using the Naver API. The scraped data is then analyzed to identify trends in travel discussions, sentiments, and popular keywords. Through this analysis, insights into travel preferences and emerging trends are uncovered.
+   - **Description**: This project explores the use of web scraping to extract travel-related blog posts from Naver using its API. The collected data is then analyzed to identify trends in travel discussions, sentiments, and popular keywords. Through this analysis, valuable insights into travel preferences and emerging trends are uncovered.
    - **Folder**: `crawling_pet_project`
    - **Features**:
-     - Web crawling with Naver API
-     - Data cleaning and preprocessing with NLTK and Okt for Korean text processing
-     - Text Analysis using sentiment analysis, keyword extraction (TF-IDF), and trend analysis
-     - Visualization of results, including word cloud visualization using `wordcloud`
+     - Web crawling using the Naver API
+     - Data cleaning and preprocessing with NLTK and Okt for processing Korean text
+     - Text analysis, including keyword analysis, sentiment analysis, and topic modeling (LDA)
+     - Visualization of results, including word cloud generation using `wordcloud` package
 <!--
 ---
 

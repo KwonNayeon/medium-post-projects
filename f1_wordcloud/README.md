@@ -1,6 +1,4 @@
-# F1 Word Cloud Visualization
-
-## Project: Word Cloud Visualization of F1 Trending Tweets
+# Project: F1 Word Cloud Visualization
 
 This project is a deep dive into creating word clouds using trending tweets related to Formula 1, focusing on the first half of the 2022 season. It accompanies the Medium post [**Deep Dive into Word Cloud Creation**](https://medium.com/@nayeonkn0330/deep-dive-into-word-cloud-creation-c2fc7fc09c12) and provides both Jupyter Notebook and Python script formats of the same code, offering flexibility for interactive use or direct execution.
 
