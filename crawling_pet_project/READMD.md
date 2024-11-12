@@ -1,6 +1,4 @@
-# Web Crawling Pet Project
-
-## Project: Web Scraping and Text Analysis of Travel Trends on Blogs
+# Project: Web Scraping and Text Analysis of Travel Trends on Blogs
 
 This project focuses on web scraping Naver blogs related to Taiwan travel and performing text analysis to uncover insights into travel trends. The project generates word clouds and performs sentiment analysis, keyword extraction, and topic modeling on the extracted blog data. The accompanying Medium post [**Web Scraping and Text Analysis of Travel Trends on Blogs**](https://medium.com/) provides further context on the approach and results.
 
@@ -28,10 +26,6 @@ In the code, replace the following placeholders with your own API key:
 client_id = ''  # Your Naver API Client ID
 client_secret = ''  # Your Naver API Client Secret
 ```
-
-## Data Source
-
-The project uses the **stopwords-ko.txt** from [spikeekips' Gist on GitHub](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a).
 
 ## Requirements
 
@@ -71,11 +65,12 @@ from datetime import datetime
 import nltk
 ```
 
+## Data Sources and Acknowledgments
+
+- **Naver Developer API** for web scraping: [Naver Developers website](https://developers.naver.com/)  
+- Python-based Naver blog crawling tutorial by dev-woo: [link](https://developer-woo.tistory.com/60#google_vignette)  
+- The project uses the **stopwords-ko.txt** from [spikeekips' Gist on GitHub](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/KwonNayeon/medium-post-projects/blob/main/LICENSE) file for more details.
-
-## Acknowledgments
-
-- [Naver API blog crawler by dev-woo](https://developer-woo.tistory.com/60#google_vignette)
-- Naver Developer API for web scraping

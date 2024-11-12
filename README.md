@@ -18,8 +18,8 @@ This repository hosts code and projects featured in my Medium posts. Each folder
    - **Folder**: `crawling_pet_project`
    - **Features**:
      - Web crawling with Naver API
-     - Text Analysis using sentiment analysis, keyword extraction (TF-IDF), and trend analysis
      - Data cleaning and preprocessing with NLTK and Okt for Korean text processing
+     - Text Analysis using sentiment analysis, keyword extraction (TF-IDF), and trend analysis
      - Visualization of results, including word cloud visualization using `wordcloud`
 <!--
 ---
